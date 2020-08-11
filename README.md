@@ -1,3 +1,11 @@
+# 🚨 This is a NodeBB fork of Bootswatch 🚨
+
+We did it purely so we can publish a new version under the @nodebb npm scope with a fix that was not published to npm.
+
+You should probably use [the actual Bootswatch](https://github.com/thomaspark/bootswatch) repo.
+
+----
+
 Bootswatch
 ==========
 
@@ -9,7 +17,7 @@ Usage
 -----
 Download the `bootstrap.min.css` file associated with a theme and replace Bootstrap's default stylesheet. You must still include Bootstrap's JavaScript file to have functional dropdowns, modals, etc.
 
-The themes are also hosted on [BootstrapCDN](http://www.bootstrapcdn.com/bootswatch/). 
+The themes are also hosted on [BootstrapCDN](http://www.bootstrapcdn.com/bootswatch/).
 
 You can import a theme into your styles using either LESS or SASS.
 

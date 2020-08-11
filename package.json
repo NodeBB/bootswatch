@@ -1,5 +1,5 @@
 {
-  "name": "bootswatch",
+  "name": "@nodebb/bootswatch",
   "description": "Bootswatch is a collection of themes for Bootstrap.",
   "version": "3.4.1",
   "author": "Thomas Park",
